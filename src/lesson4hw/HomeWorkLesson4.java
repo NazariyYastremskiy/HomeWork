@@ -31,15 +31,5 @@ public class HomeWorkLesson4 {
 
         String generaldata = ( "Меня зовут : " + name + " " + firstname +  ","  + "мой город " + sity  + "," +"мне " + years + "год" + "," + "мой рост " + growth + ".");
         System.out.println(generaldata);
-
-
-
-
-
-
-
-
-
-
     }
 }
