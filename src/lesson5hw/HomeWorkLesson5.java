@@ -59,10 +59,6 @@ public class HomeWorkLesson5 {
             }
 
             System.out.println("Maximum number: " + max);
-
-            //Task#4
-            
-
         }
         }
             }
